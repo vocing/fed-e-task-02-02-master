@@ -1,0 +1,31 @@
+Arguments: 
+  D:\nodejs8_ths\node.exe D:\nodejs8_ths\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  D:\python\python3_x64_ths\Scripts\;D:\python\python3_x64_ths\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Anaconda3;C:\Program Files\Anaconda3\Scripts;C:\Program Files\Anaconda3\Library\bin;C:\Program Files\Anaconda2;C:\Program Files\Anaconda2\Scripts;C:\Program Files\Anaconda2\Library\bin;C:\Program Files\Git\cmd;D:\nodejs8_ths;
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  10.15.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: D:\project_self\疑问测试\testNotes\fed-e-task-02-02\code\githooks\package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at D:\nodejs8_ths\node_modules\yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (D:\nodejs8_ths\node_modules\yarn\lib\cli.js:310:30)
+      at D:\nodejs8_ths\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
